@@ -7,7 +7,8 @@ Also includes an executable python script.
 ## Possible Datasets
 Food macros HF dataset from [HC-85](https://huggingface.co/datasets/HC-85/open-food-facts) that will prioritize accuracy. <br>
 *or* <br>
-Nutrional Responses based HF dataset from [Tom-158](https://huggingface.co/datasets/Tom158/Nutritional-LLama) that will give the model personality and conversational quality in it's responses. <br>
+Nutrional Responses based HF dataset from [Tom-158](https://huggingface.co/datasets/Tom158/Nutritional-LLama) that will give the model a wellness personality and conversational quality in it's responses. <br>
+Instuction dataset from [tarun-bisht](https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca?row=10) for input and output instructions
 
 <!-- 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
